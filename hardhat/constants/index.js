@@ -4,3 +4,5 @@ const WHITELIST_CONTRACT_ADDRESS = "0x3C3D5e12a867E16f65CcE51129D04a862A988F36";
 const METADATA_URL = "https://nft-crypto-dev.vercel.app/api/";
 
 module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };
+
+// new deployement = 0x6927A559cCAE9C6FcD809124f8DD65c67774672f
